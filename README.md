@@ -8,7 +8,7 @@ Compilation and running instructions included in this README file.
 Recommend compiling using ubuntu terminal available on linux systems or through 'windows subsystem for linux' with windows 10. 
 Requires installation of gsl libraries and g++ compiler.
 To install GSL Libraries: $sudo apt-get install g++
-Tp install compiler: $sudo apt-get install libgsl-dev
+To install compiler: $sudo apt-get install libgsl-dev
 
 To compile: 
 
@@ -19,3 +19,4 @@ Code does not require input options and any variables should be changed directly
 
 # Notes
 Documentation with background theory and deriavation of relevant equations, as well as output for specific conditions provided in 'DMATdoc.pdf'. 
+No time to generate plots for scalar singlet dark matter-- maybe try in future.
