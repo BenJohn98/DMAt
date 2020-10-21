@@ -8,11 +8,11 @@ Compilation and running instructions included in this README file.
 Recommend compiling using ubuntu terminal available on linux systems or through 'windows subsystem for linux' with windows 10. 
 Requires installation of gsl libraries and g++ compiler.
 
-To install GSL Libraries: $sudo apt-get install g++
+To install compiler: $sudo apt-get install g++
 
-To install compiler: $sudo apt-get install libgsl-dev
+To install GSL libraries: $sudo apt-get install libgsl-dev
 
-To compile: 
+To compile: g++ -o example DMAT.cpp
 
 # Running Instructions
 After compilation, run using bash: ./example
